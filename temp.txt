@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 commit ad668e290498754471c173da98c60025587e1f8e
 Author: tharun <v.tharunkumar2109@gmail.com>
 Date:   Thu May 16 17:10:50 2024 +0530
@@ -702,3 +703,10 @@ Author: pydjangodev <pydjangodev@outlook.com>
 Date:   Thu Aug 18 03:22:38 2022 +0800
 
     init
+=======
+Hello 
+This is a feature branch to add new table.
+
+New Table Should list the details of the script got executed.....(added by tharun2109)
+
+>>>>>>> 0877bc8bcf3300ebdfde8f986de4139c0631f04c
