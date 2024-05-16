@@ -1,0 +1,704 @@
+commit ad668e290498754471c173da98c60025587e1f8e
+Author: tharun <v.tharunkumar2109@gmail.com>
+Date:   Thu May 16 17:10:50 2024 +0530
+
+    first commit
+
+commit a874f9a3cb4ddf42764ae27153cdf9a65ee845d9
+Author: N4si <chaudharinasi@gmail.com>
+Date:   Sat Oct 21 20:11:00 2023 +0530
+
+    Yo Bro, Can you complete this project?
+
+commit 208bd9065c926ce00db4814b81c7036d28f352e7
+Author: N4si <chaudharinasi@gmail.com>
+Date:   Sat Oct 21 14:21:24 2023 +0530
+
+    Project Architecture added
+
+commit c33b958f7fa5f54db26b570d5c0d0701dd7982a3
+Author: N4si <chaudharinasi@gmail.com>
+Date:   Thu Oct 19 16:07:08 2023 +0530
+
+    EKS monitoring on Prometheus using helm
+
+commit cc42e3d2c1bc3378fe1d10d5dc1fb385858d636d
+Author: N4si <chaudharinasi@gmail.com>
+Date:   Thu Oct 19 16:02:29 2023 +0530
+
+    EKS monitoring on Prometheus using helm
+
+commit 84a7af51c2eb7fa783675f2b540a1eca82f45068
+Author: N4si <chaudharinasi@gmail.com>
+Date:   Thu Oct 19 15:58:51 2023 +0530
+
+    EKS monitoring on Prometheus using helm
+
+commit 11bf6b54026b1ea9bc248cdc3aeb3f51068ebb8a
+Author: N4si <chaudharinasi@gmail.com>
+Date:   Thu Oct 19 12:52:01 2023 +0530
+
+    Update to prometheus
+
+commit 6b964de8c98f5fbb54c28aecdbaf9f20888ef119
+Author: N4si <chaudharinasi@gmail.com>
+Date:   Thu Oct 19 11:59:39 2023 +0530
+
+    Update Monitoring in readme
+
+commit 95f32d19dffed35977d9f9a391c33d97c42bdbfd
+Author: N4si <chaudharinasi@gmail.com>
+Date:   Wed Oct 18 14:49:25 2023 +0530
+
+    Update Readme
+
+commit 80ecf4d404e49550ea532ce3af25a76aa28ccddd
+Author: N4si <chaudharinasi@gmail.com>
+Date:   Wed Oct 18 11:56:10 2023 +0530
+
+    Initial commit
+
+commit c749aa1d9fe4249c6ca695121db3754c7f65892a
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Tue Oct 10 21:41:01 2023 +0530
+
+    Update .env.example
+
+commit f1c4b2da33cb81d2b5d57234686a87d85d0ab5d8
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Tue Oct 10 21:40:42 2023 +0530
+
+    Update .env
+
+commit 57b86abfa60c22ae6bcd593134f951919bf89de1
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Mon Sep 11 15:14:57 2023 +0530
+
+    Delete service.yml
+
+commit d705a4464d7d05597ae04ffc29e781fe3faf7df8
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Mon Sep 11 15:14:40 2023 +0530
+
+    Delete deployment.yml
+
+commit 3e70001bf560a1fb47b2127020ee0acd950999f7
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Mon Sep 11 15:13:05 2023 +0530
+
+    Create service.yml
+
+commit b53424441cc50bccc04bf997c1f733d85eed1857
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Mon Sep 11 15:12:18 2023 +0530
+
+    Create deployment.yml
+
+commit 14d24f0f9181ee223c3bdd97628726815dd6d29d
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Mon Sep 11 10:22:15 2023 +0530
+
+    Update .env
+
+commit 051c043a228b7ecf2361b5ac5a9ff21003f85576
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Sun Sep 10 23:29:14 2023 +0530
+
+    Update .env
+
+commit ab312a4799d07102fd6e6e9938dd744dc97b2ec9
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Sun Sep 10 23:18:18 2023 +0530
+
+    Update .env
+
+commit 42407389a75478e98dfae797b7be3d8bc4c4f643
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Sun Sep 10 22:45:53 2023 +0530
+
+    Update .env
+
+commit b0efc19ea7d3009eb1c1ddd7d6bdd93e7835d4dc
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Sun Sep 10 22:27:05 2023 +0530
+
+    Create .env
+
+commit ac14e8ba611b309959f3d68d65088e5878252c0f
+Author: Aj7Ay <110721907+Aj7Ay@users.noreply.github.com>
+Date:   Sun Sep 10 20:06:31 2023 +0530
+
+    Update .env.example
+
+commit 9f76ea3f32a84b7a12379408cd8d5de39edb114e
+Author: gajanan_barure <125451289+gsbarure@users.noreply.github.com>
+Date:   Sun Jun 25 02:49:30 2023 +0530
+
+    Create service.yml
+
+commit 95d3ecf459f8559b6d944e524ea0fd7262a59780
+Author: gajanan_barure <125451289+gsbarure@users.noreply.github.com>
+Date:   Sun Jun 25 02:44:41 2023 +0530
+
+    Create deployment.yml
+
+commit 94f68396ed2900b9eff089cc61106ecc6aa4d4e3
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue May 9 09:55:13 2023 -0700
+
+    add react-router to readme
+
+commit d83ddb9e86a86668dcebd6ab60f931e97845127e
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue May 9 09:47:44 2023 -0700
+
+    update readme
+
+commit c0e6e5e082ad3ecdec68647041ebb04535056a0c
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue May 9 09:43:33 2023 -0700
+
+    add data loader to GenreExplore page
+
+commit 72ba3b3a011a076ca2192d48571ff7441c375a69
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue May 9 02:45:07 2023 -0700
+
+    fix style in SimilarVideoCard
+
+commit a6450272f4f7ee9e3da92b58f7ff629c72d00465
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue May 9 02:37:10 2023 -0700
+
+    remove overrided style in NetflixIconButton
+
+commit 14bc615c990137d7024f61becff1af873d6084ac
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue May 9 02:26:28 2023 -0700
+
+    remove commend in routes file
+
+commit 592fcb45d0f7bb9657254b3b017bfe3804746c4c
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue May 9 02:25:54 2023 -0700
+
+    fix netflix icon button
+
+commit 8a9cb8b372689eabcc209ab6386ff3c097a02a37
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue May 9 02:25:25 2023 -0700
+
+    fix portal provider behaivor
+
+commit 185dfbb446e1dc9f2dc0c321b822c4e57b801acf
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 09:29:37 2023 -0700
+
+    fix style in MainLoadingScreen
+
+commit 8f177da5e35b83745305a2f1c8b8fc24f0e25de3
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 09:29:16 2023 -0700
+
+    remove console.log
+
+commit 1ab5765ec5fe98af35e48c2e81cb3ea80e4fd51f
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 09:12:23 2023 -0700
+
+    add data loader for genre page
+
+commit cbcddff80cdd321117b12fd5e55c1e297bca42b8
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 08:24:25 2023 -0700
+
+    fix pages using new features(lazy, data loader) of react-router
+
+commit e0e92d405cf1d5c42bfad942b57997a3c514618b
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 08:23:06 2023 -0700
+
+    add backup comments for code splitting in videojs player
+
+commit 1c87e54a2535f3e17e1d14559cdf6af1d397bb37
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 08:22:02 2023 -0700
+
+    remove comment in DetailModal
+
+commit 6163ef41e3d017e8c46e15fbae72b56a6595fff0
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 07:33:29 2023 -0700
+
+    fix player
+
+commit dac7bc07910a9d6481c5fe4d9f2d2456adb46a49
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 07:00:58 2023 -0700
+
+    fix DetailModalProfile and DetailModal
+
+commit b2b5a0c2acba774b0a4f00a7974e669d8263e095
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 06:58:18 2023 -0700
+
+    fix genre slice
+
+commit a7025504b07e209b727acb5b55ec2b8afdcc4a82
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 05:28:32 2023 -0700
+
+    fix HeroSection and DetailModal to use VideoJSPlayer
+
+commit 42aa7ffb47b8f8c79d5a95040798c7c311097820
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 05:24:53 2023 -0700
+
+    fix VideoJSPlayer for code split, dynamic import
+
+commit 7b3d88efc65f3b6da8d70fce045f526b8020d150
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 03:15:44 2023 -0700
+
+    rename genre slice to .ts
+
+commit 9af17de140d23ff35b6229706ed3ce000c25d21e
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon May 8 00:00:08 2023 -0700
+
+    replace nginx base image with alpine
+
+commit 3d884c0b7b4582c1958072faa9fc214958830c38
+Author: Endo <endo_aki22@outlook.com>
+Date:   Sat May 6 12:05:30 2023 -0700
+
+    fix MainLayout
+
+commit 3d06656936ad2ad47aa58209af54dd08de72fdc7
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri May 5 15:38:58 2023 -0700
+
+    change link to profile in footer
+
+commit 9ce44d60b8107eab052eaa1ad9c554d4a35ed860
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri May 5 15:38:17 2023 -0700
+
+    fix README
+
+commit fff736caae60d85f8415b8edb5d0093b1fcf3d3d
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri May 5 15:25:35 2023 -0700
+
+    fix type issues for videojs
+
+commit fe27bc3a55414e20b89872ac712272a6578d60cc
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri May 5 15:18:12 2023 -0700
+
+    add onclick handler to link watch page for play buttons
+
+commit 65189ce0e4cd7a5cde0bcc671b9888b3535d2b3e
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri May 5 15:10:46 2023 -0700
+
+    remove footer in watch page
+
+commit 7fea729b0f8a985318bf946272c5305f1630eea4
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri May 5 15:10:22 2023 -0700
+
+    rename useOffSetTop.tsx to ts
+
+commit 50d5da6ec5b6e2d73abedff94188c6cd43fb4e9e
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri May 5 15:09:34 2023 -0700
+
+    add WatchPage and its components
+
+commit c5eb83a1550bca2f5e8dc5590ee28ba3e52fcdf6
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri May 5 15:06:52 2023 -0700
+
+    fix class name in slick slider
+
+commit 90e73b7fad32220c9f9ed9fb65b117ea241109de
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri May 5 15:05:47 2023 -0700
+
+    rename tsx to ts
+
+commit a12333c6f5b059af1d78537139a3580ced89aa61
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri May 5 15:04:15 2023 -0700
+
+    upgrade videojs version
+
+commit 79b73e8e2b071fd0f117e76baf2178b6293a593d
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue Apr 18 00:50:11 2023 -0700
+
+    added formatBytes util
+
+commit ac633db8f5d0bcc256463351714961f84c2220ed
+Author: Endo <endo_aki22@outlook.com>
+Date:   Sun Apr 9 23:53:25 2023 -0700
+
+    fix dockerfile
+
+commit 68d51db9294aeb28e8bc827623fae6517431ab50
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon Mar 20 09:04:47 2023 -0700
+
+    fix package.json
+
+commit edd2f4f2db6e4ed73531e4d55cbb4c49452a2bcc
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon Mar 20 09:03:10 2023 -0700
+
+    remove react-use package, fix infinte scroll
+
+commit 46bd70e5532367d4ed5f6fa9a119b60734a4f46e
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri Mar 17 13:32:54 2023 -0700
+
+    update readme
+
+commit 05b85feaa33765fd6fc9bd997c23f0d3f6f5c8f0
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri Mar 17 12:28:28 2023 -0700
+
+    upgrad react-router-dom version, and fix routes with its new feature
+
+commit 2e2acfc02b24deb77f42592a66a0feba4259b335
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon Feb 20 13:54:13 2023 -0700
+
+    fixed readme with new images
+
+commit 47cce5d6dfb430de085ef07ea94c0b889d171385
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon Feb 20 04:35:32 2023 -0700
+
+    fixed player options in herosection
+
+commit 2c1158753f7aa040376cc12e0af061bc30078fee
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon Feb 20 03:56:35 2023 -0700
+
+    added avatar image
+
+commit 5b65596e7e02edcfea790a34b9f5d79a37a2d8f0
+Author: Endo <endo_aki22@outlook.com>
+Date:   Mon Feb 20 03:48:32 2023 -0700
+
+    removed react-player, and added video.js instead
+
+commit 5094ab55ed5663ff3ce6c6cd7f41ca8cf0251dd4
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri Jan 13 05:28:37 2023 -0700
+
+    fixed transition in SearchBox
+
+commit e1d7672633170a2ed1d41a9ffc4a3c10a4dad098
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri Jan 13 05:15:04 2023 -0700
+
+    fixed SearchBox like in real netflix
+
+commit a7d70b7a43467ba63dff654aaf89c3f329eabcf5
+Author: Endo <endo_aki22@outlook.com>
+Date:   Fri Jan 13 04:29:40 2023 -0700
+
+    fixed useOffset hook to add multiple listeners using addEventListener, not replacement
+
+commit 9e71a688ee0f5b0b24b277d82ec3243a2090211f
+Author: Endo <endo_aki22@outlook.com>
+Date:   Thu Dec 8 01:15:27 2022 -0700
+
+    remove youtube link
+
+commit 1208883d4cd1067b07af7d3c7c23fd944db709d1
+Merge: 3a9d06c 61a31c9
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue Dec 6 04:39:14 2022 -0700
+
+    Merge branch 'main' of github.com:endo-aki22/netflix-clone-react-typescript
+
+commit 3a9d06c8eaa3a02e9e809ea7ff4cc85a4b179aaa
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue Dec 6 03:29:43 2022 -0700
+
+    removed redundant styles in palette
+
+commit 6f020c6bfeb731ddfac6cf3bfc27cad7cf12b5ad
+Author: Endo <endo_aki22@outlook.com>
+Date:   Tue Dec 6 03:21:37 2022 -0700
+
+    refactored routes with useRoutes
+
+commit 61a31c914bf66d573fd9ed3f268d0f75ca5095b3
+Author: Endo Aki <endo_aki22@outlook.com>
+Date:   Fri Dec 2 03:35:57 2022 -0700
+
+    fix links in readme
+
+commit 4c327b678a97b0c3145faefb261f63613bb8d06c
+Author: Endo <endo_aki22@outlook.com>
+Date:   Sun Nov 27 10:50:58 2022 -0700
+
+    clean comment and fix #2 again correctly
+
+commit 00744e060e8ec6efc86a8ff78ba7418677846769
+Author: Endo <endo_aki22@outlook.com>
+Date:   Sun Nov 27 10:47:57 2022 -0700
+
+    added vercel json
+
+commit 9accd7fee3c270d0fd557a443b062b5d07a8b56c
+Author: Endo <endo_aki22@outlook.com>
+Date:   Sun Nov 27 10:28:18 2022 -0700
+
+    added RouterProvider from react-router-dom
+
+commit 754d154c08fa65776853d9c687ed72c8216e6e04
+Author: Endo <endo_aki22@outlook.com>
+Date:   Sun Nov 27 10:05:46 2022 -0700
+
+    fixed the route issue #2
+
+commit 3007f75381422246f99bba59488199e58e7b65d6
+Author: Endo Aki <endo_aki22@outlook.com>
+Date:   Thu Nov 17 13:52:50 2022 -0700
+
+    revert readme
+
+commit df657b7c6cb88f80a39674409a2b358749d4d387
+Author: Endo Aki <endo_aki22@outlook.com>
+Date:   Thu Nov 17 13:40:30 2022 -0700
+
+    move top image out of the div in readme
+
+commit 118948fa88bdac9ac088d30c9ab8c2dc03bc4add
+Author: Endo Aki <endo_aki22@outlook.com>
+Date:   Thu Nov 17 13:35:59 2022 -0700
+
+    move detail modal image to top in readme
+
+commit a7dbf4c75ebdd08267e5b0ef7041ea61c876aba6
+Author: endo_aki <endo_aki22@outlook.com>
+Date:   Fri Nov 4 04:27:19 2022 -0600
+
+    fixed readme
+
+commit 57b8b903e764e8bc25c7c43e7aace04456f42d44
+Author: endo_aki <endo_aki22@outlook.com>
+Date:   Thu Nov 3 06:39:56 2022 -0600
+
+    fixed readme
+
+commit 9bae68902b1ff741015d998e792bd13c4daa55bf
+Author: endo_aki <endo_aki22@outlook.com>
+Date:   Thu Nov 3 06:28:35 2022 -0600
+
+    added todos to readme
+
+commit 51ccd8c7dc34767c59d52edbbbed41b6f023a2d0
+Author: endo_aki <endo_aki22@outlook.com>
+Date:   Thu Nov 3 06:15:22 2022 -0600
+
+    rm env
+
+commit 5a359b66b1aa7fe76053a3a507a0ed61308fd2a7
+Author: endo_aki <endo_aki22@outlook.com>
+Date:   Thu Nov 3 06:13:59 2022 -0600
+
+    fix gitignore
+
+commit abfb94e2b9caf732c3e9c9d362c67b35dbee95e5
+Author: endo_aki <endo_aki22@outlook.com>
+Date:   Thu Nov 3 03:29:57 2022 -0600
+
+    replaced bundler with vite, migrated axios api calls to RTK query
+
+commit 61d68f4bf978910dec76bfe43f9a239e8d8d7e3d
+Author: endo_aki <endo_aki22@outlook.com>
+Date:   Mon Sep 12 19:44:41 2022 +0800
+
+    added router link to Logo
+
+commit 058dc7f938325354ed595b2b5689e7d43ae4e4f8
+Author: endo_aki <endo_aki22@outlook.com>
+Date:   Mon Sep 12 18:02:22 2022 +0800
+
+    fixed MainRoutes to avoid using MainLayout duplicated
+
+commit efb2fb7e840300cc6aa55c0e62e245a7f54a701d
+Author: endo_aki <endo_aki22@outlook.com>
+Date:   Mon Sep 12 18:00:53 2022 +0800
+
+    replaced primary.main with background.default for background in App.tsx
+
+commit 60d29531150c6256b782065ebed3bf6e39b82ca2
+Author: endo_aki <endo_aki22@outlook.com>
+Date:   Thu Sep 8 00:21:54 2022 +0800
+
+    added Dockerfile
+
+commit e16b42f0f8da4fe3ed890f6460fb2b101be2b504
+Merge: d08834d ab431c2
+Author: root <root@Lenovo.localdomain>
+Date:   Tue Aug 30 15:26:25 2022 +0800
+
+    Merge remote-tracking branch 'origin/main'
+
+commit d08834d4b94a2587eb1dcc1259d001285958069f
+Author: root <root@Lenovo.localdomain>
+Date:   Tue Aug 30 15:22:33 2022 +0800
+
+    fix list key
+
+commit 226c1006dffce967a9214e04fa22bb5899a82a4f
+Author: root <root@Lenovo.localdomain>
+Date:   Fri Aug 26 18:50:17 2022 +0800
+
+    updated ignore file
+
+commit ab431c26a8fdca5f12a6f528a748a3c51554f32f
+Author: Endo Aki <endo_aki22@outlook.com>
+Date:   Fri Aug 26 17:45:14 2022 +0800
+
+    added a link to classname generator of MUI
+
+commit af0ff2de676c14e0b9076da453e6c56f1cd1944f
+Author: Endo Aki <endo_aki22@outlook.com>
+Date:   Fri Aug 26 17:43:47 2022 +0800
+
+    added slick-carousel to readme
+
+commit 687842f69d2428c872b63122191272a13c122d80
+Author: Endo Aki <endo_aki22@outlook.com>
+Date:   Fri Aug 26 17:40:30 2022 +0800
+
+    changed package name
+
+commit b10234d7704d3611f3f660c704240440864a2a88
+Author: Endo Aki <endo_aki22@outlook.com>
+Date:   Fri Aug 26 17:38:43 2022 +0800
+
+    added react-infinite-scroller to readme
+
+commit 3950e126b49c52471c19bb5ab11b110ef40930af
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Thu Aug 25 03:06:08 2022 +0800
+
+    fixed readme
+
+commit f859d83d838187b23092641173e76cc789ec2555
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Thu Aug 25 03:01:49 2022 +0800
+
+    added google roboto font, and custom classname generator
+
+commit dea39d1c57847a5858a2cf7cf0dbd967c95a9b8e
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 20:18:05 2022 +0800
+
+    removed console.log and added autoplay playvar
+
+commit 39fd3d7a04788be426b802aeaa313964bd2be612
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 20:10:15 2022 +0800
+
+    removed duplicated id
+
+commit 22893b6931c234a679bc155f3b24eadc016a653e
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 20:01:46 2022 +0800
+
+    added unstarted callback
+
+commit 3247db6b8c99f6809351b84430636d98717d6776
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 19:33:18 2022 +0800
+
+    fixed handleReady callback in TopTrailer
+
+commit 22d145511b38895626695a1c2a829adc2355412b
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 19:23:42 2022 +0800
+
+    forced to play automatically Player in TopTrailer
+
+commit f33fb3331ab0d5849231720e98b7c2dea8f9ccb5
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 19:05:52 2022 +0800
+
+    added playerRef
+
+commit 9af3ddba891f3fa8b53fd26474c730d65c1a4590
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 18:27:36 2022 +0800
+
+    fixed YouTubePlayer
+
+commit fad1e02811779bc9713eced636f4abdb907b835e
+Merge: 12f36d4 29cb173
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 18:00:29 2022 +0800
+
+    Merge branch 'main' of github.com:endo-aki22/netflix-clone-react-typescript
+
+commit 12f36d441ac50dd44637fc01e127e8862488c01f
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 18:00:06 2022 +0800
+
+    added createSafeContext, and migrated contexts to providers
+
+commit 2e4c8dada5609af837d778147152f647531c2318
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 15:46:21 2022 +0800
+
+    removed playing state in DetailModal
+
+commit eb8568f267854692eef09c7b61d5a059f818f368
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 15:36:02 2022 +0800
+
+    fixed animation of slider title
+
+commit 2b26c56ca2122a10b2c263b1edcfcf647b9ead9a
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Tue Aug 23 15:08:19 2022 +0800
+
+    GenreExplorePage lazy load
+
+commit 29cb173b512e3cf298705c0d982fc5ce8f2d2474
+Author: Endo Aki <pydjangodev@outlook.com>
+Date:   Tue Aug 23 14:41:03 2022 +0800
+
+    update contact email
+
+commit 3804e3354988bcab8279efc0f1c23190a8fcbe68
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Mon Aug 22 19:44:09 2022 +0800
+
+    added default youtube key
+
+commit d01cdd12cd7e2aca7b2d29af92f6a75c72699d77
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Thu Aug 18 03:38:29 2022 +0800
+
+    added a link to youtube
+
+commit bed27fecf7d7a736f1541f0743cd49ef81cb06c2
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Thu Aug 18 03:27:08 2022 +0800
+
+    removed unnecesary paths in path.tsx
+
+commit e49fee4bafe5d147a2ce950e0c67fa7bc5995e6c
+Author: pydjangodev <pydjangodev@outlook.com>
+Date:   Thu Aug 18 03:22:38 2022 +0800
+
+    init
